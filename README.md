@@ -20,4 +20,6 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 Your users should be able to:
 
-- See hover states for interactive elements
+- View hover states for interactive elements
+
+- Have the colors in dark and light mode
