@@ -1,4 +1,4 @@
-# 2-xavier-padd
+# Order-summary-component
 Primer Proyecto "music"
 # Frontend Mentor - Order summary card
 
